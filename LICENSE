@@ -1,0 +1,61 @@
+TeamsPlus Free License (TPLUS-FL-1.0)
+Copyright (c) 2025 LethalOGM
+Repository: https://github.com/LethalOGM/TeamsPlus
+
+IMPORTANT SUMMARY (non-binding):
+- TeamsPlus is free to use on your Minecraft server(s).
+- You may not redistribute the source code, publish it, or use it to create a competing/substantially similar plugin.
+- You may obtain the “open resource” (source) only through the author’s Discord/community distribution channel.
+- The author may distribute an obfuscated/protected build; you may not decompile or reverse engineer it.
+
+1. Definitions
+“Software” means TeamsPlus, including binaries/JARs, source code, configuration templates, GUIs, assets, documentation,
+and any accompanying materials.
+“Source Code” means human-readable code (Java, build files, resources) and any non-obfuscated distribution.
+“Protected Build” means an obfuscated/protected compiled distribution of the Software.
+
+2. Grant of License (Freeware / Limited Use)
+Subject to this License, you are granted a non-exclusive, non-transferable, revocable license to:
+(a) download, install, and run the Software on Minecraft server instances you own or administer; and
+(b) configure the Software for your own server use.
+
+3. Restrictions
+You may NOT, and may not allow any third party to:
+(a) redistribute, sublicense, sell, rent, lease, or otherwise provide the Software (including any copy of the JAR) to others,
+    except as expressly permitted by the author in writing;
+(b) publish, share, upload, mirror, or otherwise distribute any portion of the Source Code, including on GitHub, forums, paste sites,
+    or other repositories;
+(c) copy, adapt, translate, or create derivative works from the Source Code or assets, including reusing substantial portions of code,
+    classes, configuration structures, GUIs, inventories, or resources to create a competing or substantially similar plugin;
+(d) reverse engineer, decompile, disassemble, or otherwise attempt to derive source or internal logic from any Protected Build,
+    except to the limited extent expressly permitted by applicable law (and then only after providing the author written notice);
+(e) remove or alter copyright, trademark, author attribution, or license notices.
+
+4. “Open Resource” Access via Discord
+The author may, at their sole discretion, provide access to Source Code (“open resource”) via an official Discord/community channel.
+Access may be subject to additional rules (e.g., verification, contribution guidelines) and may be revoked for violations.
+
+5. Updates and Version Checks
+The Software may include an optional update checker that queries GitHub releases/tags for administrative notification.
+No personal data is intentionally collected by this feature beyond standard HTTP request metadata required to contact GitHub.
+
+6. Ownership
+The Software is licensed, not sold. All rights not expressly granted are reserved by the author.
+
+7. Disclaimer of Warranties
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. YOU USE THE SOFTWARE AT YOUR OWN RISK.
+
+8. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+OR EXEMPLARY DAMAGES, INCLUDING LOST PROFITS, LOST DATA, OR SERVER DOWNTIME, ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. Termination
+This License terminates automatically if you breach any term. Upon termination, you must cease use and delete all copies in your possession.
+
+10. Contact / Support
+For support and access to the open resource distribution, use the official community/Discord for TeamsPlus
+(discord invite link to be provided by the author).
+
+Effective date: 2025-12-31
